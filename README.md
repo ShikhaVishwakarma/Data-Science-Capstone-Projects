@@ -5,4 +5,5 @@ In this project, we explore the world of Deepfakes using a pre-trained model eng
 
 
 
-Paper: [MesoNet: a Compact Facial Video Forgery Detection Network] (https://arxiv.org/abs/1809.00888)
+Paper: 
+[MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/abs/1809.00888)

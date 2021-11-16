@@ -1,9 +1,9 @@
 # Stock Price Forecast
 
-## Problem statement
+## Problem Statement
 Stock market prediction aims to determine the future movement of the stock value of a financial exchange. The accurate prediction of share price movement will lead to more profit investors can make. Predicting stock prices is an uncertain task which is modelled using machine learning to predict the return on stocks. Over the years, various machine learning techniques have been used in stock market prediction, but with the increased amount of data and expectation of more accurate prediction, the deep learning models are being used nowadays which have proven their advantage over traditional machine learning methods in terms of accuracy and speed of prediction.
 
-## Getting started
+## Getting Started
 In this project, the future stock prices of Bombay Stock Exchange (BSE) are predicted using the LSTM Recurrent Neural Network. Our task is to predict stock prices for a few days, which is a time series problem. The LSTM model is very popular in time-series forecasting, and this is the reason why this model is chosen in this task. 
 
 ## Implementation
